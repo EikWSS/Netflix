@@ -2,7 +2,7 @@
 <h1 align="center">Netflix </h1>
 <div align="center">
   <h3>
-    <a href="https://github.com/EikWSS/Netflix.git">
+    <a href="https://eikwss.github.io/Netflix/">
       Lenken til prosjektet
     </a>
   </h3>
@@ -61,6 +61,6 @@ Jeg har brukt HTML og CSS, og sone typer av code elementene:
 
 ## Forventet resultat
 
-![Image_1](/netflix/Skjermbilde%202024-10-11%20140901.png)
+![Image_1](Skjermbilde%202024-10-11%20140901.png)
 
 ## Takk for oppmerksomhet og Happy coding!!!
