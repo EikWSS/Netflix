@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background-image: url(back.jpg);
+
+}
+
+p{
+color: white;
+
+}
+
+.conteiner{
+background-color: rgba(0, 0, 0, 0.7);
+text-align: start;
+width: 75%;
+padding: 20px 40px;
+}
+
+
+label{
+    color: white;
+}
+
+.div{
+    color: white;
+}
+
+.text{
+    height: 80px;
+    width: 97%;
+}
+
+.sea{
+height: 30px;
+width: 97%;
+}
+
+.net {
+    color: white;
+    
+}
+.flix {
+    color: red;
+}
+
+body{
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.sect{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   background: rgba(0, 0, 0, 0.45);
+   margin: 20px 40px;
+   padding: 30px;
+}
+
+.cont{
+    text-align: center;
+
+}
+
+#content-type{
+border: none;
+outline: none;
+padding: 13px 7px;
+width: 97%;
+}
+
+.submit{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    text-decoration: none;
+    padding: 12px;
+    width: 200px;
+    border-radius: 30px;
+    color: white;
+}
