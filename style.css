@@ -5,7 +5,8 @@
 
 body{
 background-image: url(back.jpg);
-
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 p{
@@ -45,11 +46,6 @@ width: 97%;
 }
 .flix {
     color: red;
-}
-
-body{
-background-size: cover;
-background-repeat: no-repeat;
 }
 
 .sect{
